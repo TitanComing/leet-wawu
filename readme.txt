@@ -11,4 +11,4 @@ https://github.com/youngyangyang04/leetcode-master
 单例；
 
 其他：
-字符串处理
+字符串处理; 双指针法应用
