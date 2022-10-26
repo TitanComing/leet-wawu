@@ -7,7 +7,7 @@ package org.peng.String;
         输入: s = "abcdefg", k = 2
         输出: "bacdfeg"*/
 
-public class reverseStr {
+public class ReverseStr {
     public String reverseStr(String s, int k) {
         char[] chars = s.toCharArray();
         for (int i = 0; i < chars.length; i += 2 * k) {
